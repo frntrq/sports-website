@@ -1,0 +1,59 @@
+body {
+  margin: 0;
+}
+nav {
+  background-color: rgb(74, 128, 73);
+  padding: 1.1em;
+}
+.button {
+  font-size: 1.2em;
+  color: darkgrey;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+nav ul {
+  padding: 0;
+  width: 80%;
+  font-size: 1.5em;
+  margin: auto;
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+}
+#head {
+  background: url("images/alessandro-bogliari-oDs_AxeR5g4-unsplash.jpg") center;
+  background-size: cover;
+  padding: 6em;
+  color: white;
+}
+#content {
+  color: white;
+}
+.top-text {
+  text-align: center;
+}
+.farticle1 {
+  background: url("images/ball-close-up-field-701773.jpg") center;
+  background-size: cover;
+  padding: 4em;
+}
+.farticle2 {
+  background: url("images/ballgame-balls-boys-1564868.jpg") center;
+  background-size: cover;
+  padding: 4em;
+}
+.barticle1 {
+  background: url("images/ball-baseball-baseball-bat-1614992.jpg") center;
+  background-size: cover;
+  padding: 4em;
+}
+.barticle2 {
+  background: url("images/action-athlete-baseball-bat-1594943.jpg") center;
+  background-size: cover;
+  padding: 4em;
+}
+#content {
+  display: flex;
+}
