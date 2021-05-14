@@ -30,6 +30,7 @@ nav ul {
 }
 #content {
   color: white;
+  overflow: hidden;
 }
 .top-text {
   text-align: center;
